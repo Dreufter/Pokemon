@@ -1,17 +1,26 @@
 [
-        {
-            "name" : "Chikorita",
-            "Descripción" : "Bicho verde segunda",
-            "url" : "https://static.wikia.nocookie.net/espokemon/images/4/4e/Chikorita.png/revision/latest/scale-to-width-down/520?cb=20140206203521"
-        },
-        {
-            "name" : "Cyndaquil",
-            "Descripción" : "Bicho azul segunda",
-            "url" : "https://static.wikia.nocookie.net/espokemon/images/9/99/Cyndaquil.png/revision/latest/scale-to-width-down/520?cb=20140206203643"
-        },
-        {
-            "name" : "Totodile",
-            "Descripción" : "Bicho azul otra vez segunda",
-            "url" : "https://static.wikia.nocookie.net/espokemon/images/e/e7/Totodile.png/revision/latest/scale-to-width-down/520?cb=20140206203727"
-        }
+    {
+        "name": "Chikorita",
+        "desc": "Bicho verde segunda",
+        "url": "https://static.wikia.nocookie.net/espokemon/images/4/4e/Chikorita.png/revision/latest/scale-to-width-down/520?cb=20140206203521",
+        "tipo": "Planta, Veneno",
+        "peso": "6,9 Kg",
+        "grito": "https://static.wikia.nocookie.net/espokemon/images/3/3a/Grito_de_Bulbasaur.ogg/revision/latest?cb=20140731185900"
+    },
+    {
+        "name": "Cyndaquil",
+        "desc": "Bicho azul segunda",
+        "url": "https://static.wikia.nocookie.net/espokemon/images/9/99/Cyndaquil.png/revision/latest/scale-to-width-down/520?cb=20140206203643",
+        "tipo": "Planta, Veneno",
+        "peso": "6,9 Kg",
+        "grito": "https://static.wikia.nocookie.net/espokemon/images/3/3a/Grito_de_Bulbasaur.ogg/revision/latest?cb=20140731185900"
+    },
+    {
+        "name": "Totodile",
+        "desc": "Bicho azul otra vez segunda",
+        "url": "https://static.wikia.nocookie.net/espokemon/images/e/e7/Totodile.png/revision/latest/scale-to-width-down/520?cb=20140206203727",
+        "tipo": "Planta, Veneno",
+        "peso": "6,9 Kg",
+        "grito": "https://static.wikia.nocookie.net/espokemon/images/3/3a/Grito_de_Bulbasaur.ogg/revision/latest?cb=20140731185900"
+    }
 ]
