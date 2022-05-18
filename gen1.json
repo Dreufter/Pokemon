@@ -1,19 +1,19 @@
 [
     {
         "name": "Bulbasaur",
-        "Descripción": "Bicho verde",
+        "desc": "Bicho verde",
         "url": "https://static.wikia.nocookie.net/espokemon/images/4/43/Bulbasaur.png/revision/latest?cb=20170120032346",
-        "atq": "125PT"
+        "especie": "Planta, Veneno"
     },
     {
         "name": "Charmander",
-        "Descripción": "Bicho naranja",
+        "desc": "Bicho naranja",
         "url": "https://static.wikia.nocookie.net/espokemon/images/5/56/Charmander.png/revision/latest?cb=20140207202456",
         "atq": "125PT"
     },
     {
         "name": "Squirtle",
-        "Descripción": "Bicho azul",
+        "desc": "Bicho azul",
         "url": "https://static.wikia.nocookie.net/espokemon/images/e/e3/Squirtle.png/revision/latest?cb=20160309230820",
         "atq": "125PT"
     }
