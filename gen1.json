@@ -3,7 +3,9 @@
         "name": "Bulbasaur",
         "desc": "Bicho verde",
         "url": "https://static.wikia.nocookie.net/espokemon/images/4/43/Bulbasaur.png/revision/latest?cb=20170120032346",
-        "especie": "Planta, Veneno"
+        "tipo": "Planta, Veneno"
+        "peso": "6,9"
+        "grito": "https://static.wikia.nocookie.net/espokemon/images/3/3a/Grito_de_Bulbasaur.ogg/revision/latest?cb=20140731185900"
     },
     {
         "name": "Charmander",
