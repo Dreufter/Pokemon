@@ -1,20 +1,17 @@
-{
-    "GEN2" : [
-        {
-            "name" : "Chikorita",
-            "Descripción" : "Bicho verde segunda",
-            "URL" : "https://static.wikia.nocookie.net/espokemon/images/4/4e/Chikorita.png/revision/latest/scale-to-width-down/520?cb=20140206203521"
-            
-        },
-        {
-            "name" : "Cyndaquil",
-            "Descripción" : "Bicho azul segunda",
-            "URL" : "https://static.wikia.nocookie.net/espokemon/images/9/99/Cyndaquil.png/revision/latest/scale-to-width-down/520?cb=20140206203643"
-        },
-        {
-            "name" : "Totodile",
-            "Descripción" : "Bicho azul otra vez segunda",
-            "URL" : "https://static.wikia.nocookie.net/espokemon/images/e/e7/Totodile.png/revision/latest/scale-to-width-down/520?cb=20140206203727"
-        }
-        ]
-  }
+[
+    {
+        "name" : "Chikorita",
+        "Descripción" : "Bicho verde segunda",
+        "URL" : "https://static.wikia.nocookie.net/espokemon/images/4/4e/Chikorita.png/revision/latest/scale-to-width-down/520?cb=20140206203521"
+    },
+    {
+        "name" : "Cyndaquil",
+        "Descripción" : "Bicho azul segunda",
+        "URL" : "https://static.wikia.nocookie.net/espokemon/images/9/99/Cyndaquil.png/revision/latest/scale-to-width-down/520?cb=20140206203643"
+    },
+    {
+        "name" : "Totodile",
+        "Descripción" : "Bicho azul otra vez segunda",
+        "URL" : "https://static.wikia.nocookie.net/espokemon/images/e/e7/Totodile.png/revision/latest/scale-to-width-down/520?cb=20140206203727"
+    }
+]
